@@ -1,0 +1,13 @@
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\bin\Debug\netcoreapp3.1\gra.exe
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\bin\Debug\netcoreapp3.1\gra.deps.json
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\bin\Debug\netcoreapp3.1\gra.runtimeconfig.json
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\bin\Debug\netcoreapp3.1\gra.runtimeconfig.dev.json
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\bin\Debug\netcoreapp3.1\gra.dll
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\bin\Debug\netcoreapp3.1\gra.pdb
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.csprojAssemblyReference.cache
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.AssemblyInfoInputs.cache
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.AssemblyInfo.cs
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.dll
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.pdb
+C:\Users\NN\Desktop\Adam Szumacher\C#\gra\obj\Debug\netcoreapp3.1\gra.genruntimeconfig.cache
